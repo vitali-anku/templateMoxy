@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppTestTask</string>
+    <string name="splash_text">Test Task</string>
+
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="user_list_issue">Issues List</string>
+    <string name="users_list_tab">Users List</string>
+    <string name="your_profile_tab">Your Profile</string>
+</resources>
